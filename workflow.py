@@ -34,7 +34,7 @@ def main():
     
     # Run the data processing
     log_step("PROCESSING", "Running data cleaning and integration")
-    exec(open('main.py').read())
+    subprocess.run(['python3', 'main.py'], check=True)
     
     # Check results
     try:
