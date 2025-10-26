@@ -1,0 +1,19 @@
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+  <identifier identifierType="URL">https://github.com/paul-nguyen-1/598-Chicago-Food-Inspections</identifier>
+  <creators>
+    <creator><creatorName>Nguyen, Paul</creatorName></creator>
+    <creator><creatorName>Bagdi, Shrirang</creatorName></creator>
+    <creator><creatorName>Liu, Fengdi</creatorName></creator>
+  </creators>
+  <titles>
+    <title>Integrated Chicago Food Inspection and Compliance Dataset</title>
+  </titles>
+  <publisher>University of Illinois Urbana-Champaign</publisher>
+  <publicationYear>2025</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Curated Research Dataset</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">Curated and integrated dataset combining City of Chicago Food Inspections, 311 Service Requests, and Business Licenses data to explore relationships between sanitation complaints, business licensing, and inspection results.</description>
+  </descriptions>
+</resource>
