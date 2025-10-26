@@ -1,0 +1,8 @@
+Field Name,Source Dataset,Type,Description,Transformations Applied
+license_number,Business Licenses / Food Inspections,Integer,Unique business license ID,Standardized across datasets
+inspection_date,Food Inspections,Date,Date of inspection,Reformatted to YYYY-MM-DD
+results,Food Inspections,String,Inspection outcome (Pass/Fail/Conditional),Normalized to consistent categories
+complaint_type,311 Service Requests,String,Type of sanitation complaint,Trimmed and grouped by category
+violation_description,Food Inspections,String,Description of health code violation,Standardized casing and punctuation
+business_activity,Business Licenses,String,Registered business activity,NAICS code mapped to readable label
+address,All Datasets,String,Business location,Trimmed whitespace and standardized city names
