@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Integrated Chicago Food Inspection and Compliance Dataset",
+  "description": "Curated dataset integrating Chicago Food Inspections, Business Licenses, and 311 Sanitation Service Requests for compliance analysis.",
+  "creator": [
+    {"@type": "Person", "name": "Paul Nguyen"},
+    {"@type": "Person", "name": "Shrirang Bagdi"},
+    {"@type": "Person", "name": "Fengdi Liu"}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "University of Illinois Urbana-Champaign"
+  },
+  "license": "https://data.cityofchicago.org/open-data-license",
+  "keywords": ["food inspection", "sanitation", "business license", "Chicago", "data curation"],
+  "dateModified": "2025-10-26",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/paul-nguyen-1/598-Chicago-Food-Inspections/tree/main/data/clean"
+    }
+  ]
+}
