@@ -1,0 +1,52 @@
+Data Quality Report - 2025-10-25 01:42:03.316226
+
+
+Final Dataset: 298,345 records
+Date range: 2010-01-04 00:00:00 to 2025-10-09 00:00:00
+
+Results Distribution:
+results
+Pass                    154176
+Fail                     57718
+Pass w/ Conditions       44658
+Out of Business          24696
+No Entry                 12908
+Not Ready                 4096
+Business Not Located        93
+
+Violation Categories:
+violation_category
+Pest Control            115838
+Sanitation               87105
+Unknown                  83172
+Facility Maintenance      4438
+Other                     3635
+License/Permit            2387
+Food Storage              1053
+Food Handling              717
+
+Locations with complaints: 68,398
+Average complaints per location: 0.5
+Max complaints at one location: 98
+
+Missing Values:
+facility_type                      5262
+license_description              170932
+license_status                   170932
+application_created_date         292269
+date_issued                      170932
+license_term_start_date          170932
+license_term_end_date            170932
+license_approved_for_issuance    171140
+payment_date                     171157
+conditional_approval             170932
+app_type                         170932
+address                               3
+city                                162
+state                                58
+inspection_type                       1
+violations                        83172
+risk                                 85
+latitude                           1018
+longitude                          1018
+last_complaint                   229947
