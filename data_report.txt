@@ -1,52 +1,52 @@
-Data Quality Report - 2025-10-25 01:42:03.316226
+Data Quality Report - 2025-12-02 16:44:56.662448
 
 
-Final Dataset: 298,345 records
-Date range: 2010-01-04 00:00:00 to 2025-10-09 00:00:00
+Final Dataset: 300,987 records
+Date range: 2010-01-04 00:00:00 to 2025-12-01 00:00:00
 
 Results Distribution:
 results
-Pass                    154176
-Fail                     57718
-Pass w/ Conditions       44658
-Out of Business          24696
-No Entry                 12908
-Not Ready                 4096
-Business Not Located        93
+Pass                    155585
+Fail                     58183
+Pass w/ Conditions       44952
+Out of Business          24898
+No Entry                 13120
+Not Ready                 4155
+Business Not Located        94
 
 Violation Categories:
 violation_category
-Pest Control            115838
-Sanitation               87105
-Unknown                  83172
-Facility Maintenance      4438
-Other                     3635
-License/Permit            2387
-Food Storage              1053
-Food Handling              717
+Pest Control            116890
+Sanitation               87702
+Unknown                  84061
+Facility Maintenance      4462
+Other                     3665
+License/Permit            2423
+Food Storage              1058
+Food Handling              726
 
-Locations with complaints: 68,398
+Locations with complaints: 68,957
 Average complaints per location: 0.5
 Max complaints at one location: 98
 
 Missing Values:
 facility_type                      5262
-license_description              170932
-license_status                   170932
-application_created_date         292269
-date_issued                      170932
-license_term_start_date          170932
-license_term_end_date            170932
-license_approved_for_issuance    171140
-payment_date                     171157
-conditional_approval             170932
-app_type                         170932
+license_description              174774
+license_status                   174774
+application_created_date         295068
+date_issued                      174774
+license_term_start_date          174774
+license_term_end_date            174774
+license_approved_for_issuance    174982
+payment_date                     174945
+conditional_approval             174774
+app_type                         174774
 address                               3
-city                                162
-state                                58
+city                                170
+state                                64
 inspection_type                       1
-violations                        83172
-risk                                 85
-latitude                           1018
-longitude                          1018
-last_complaint                   229947
+violations                        84061
+risk                                 84
+latitude                           1032
+longitude                          1032
+last_complaint                   232030

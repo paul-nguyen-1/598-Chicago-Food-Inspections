@@ -1,0 +1,11 @@
+Chicago Food Inspections Analysis Summary - 2025-12-02 16:47:20.555692
+
+Total Records: 300,987
+Date Range: 2010-01-04 to 2025-12-01
+Overall Failure Rate: 19.3%
+Locations with Complaints: 68,957
+
+Key Findings:
+1. Most common violation: Pest Control
+2. Locations with complaints have 1.0% higher failure rate
+3. Total unique facilities: 47,748
