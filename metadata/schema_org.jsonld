@@ -14,7 +14,7 @@
   },
   "license": "https://data.cityofchicago.org/open-data-license",
   "keywords": ["food inspection", "sanitation", "business license", "Chicago", "data curation"],
-  "dateModified": "2025-10-26",
+  "dateModified": "2024-12-02",
   "distribution": [
     {
       "@type": "DataDownload",
