@@ -2,18 +2,57 @@
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
   <identifier identifierType="URL">https://github.com/paul-nguyen-1/598-Chicago-Food-Inspections</identifier>
+
   <creators>
     <creator><creatorName>Nguyen, Paul</creatorName></creator>
     <creator><creatorName>Bagdi, Shrirang</creatorName></creator>
     <creator><creatorName>Liu, Fengdi</creatorName></creator>
   </creators>
+
   <titles>
     <title>Integrated Chicago Food Inspection and Compliance Dataset</title>
   </titles>
+
   <publisher>University of Illinois Urbana-Champaign</publisher>
   <publicationYear>2025</publicationYear>
+
+  <subjects>
+    <subject>Chicago</subject>
+    <subject>Food safety</subject>
+    <subject>Restaurant inspections</subject>
+    <subject>Business licenses</subject>
+    <subject>311 service requests</subject>
+    <subject>Data curation</subject>
+  </subjects>
+
+  <dates>
+    <!-- Adjust start/end to your actual data years -->
+    <date dateType="Collected">2010-01-01/2024-12-31</date>
+  </dates>
+
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Chicago, Illinois, USA</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+
   <resourceType resourceTypeGeneral="Dataset">Curated Research Dataset</resourceType>
+
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsBasedOn">
+      https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5
+    </relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsBasedOn">
+      https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr
+    </relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsBasedOn">
+      https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy
+    </relatedIdentifier>
+  </relatedIdentifiers>
+
   <descriptions>
-    <description descriptionType="Abstract">Curated and integrated dataset combining City of Chicago Food Inspections, 311 Service Requests, and Business Licenses data to explore relationships between sanitation complaints, business licensing, and inspection results.</description>
+    <description descriptionType="Abstract">
+      Curated and integrated dataset combining City of Chicago Food Inspections, 311 Service Requests, and Business Licenses data to explore relationships between sanitation complaints, business licensing, and inspection results.
+    </description>
   </descriptions>
 </resource>
